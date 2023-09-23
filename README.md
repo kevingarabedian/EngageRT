@@ -1,5 +1,5 @@
 # EngageRT - Simple Call Center
-
+## Develop. Deploy. Disrupt.
 EngageRT is a elegant yet simple call center platform. It provides comprehensive tools for managing agents, queues, and customer interactions.
 
 ## Configuration

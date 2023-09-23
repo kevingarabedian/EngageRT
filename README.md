@@ -191,7 +191,7 @@ To deploy EngageRT using Docker, follow these steps:
 1. Clone the EngageRT repository:
 
    ```bash
-   git clone https://github.com/your-username/EngageRT.git
+   git clone https://github.com/kevingarabedian/EngageRT.git
    ```
 
 2. Navigate to the project directory:

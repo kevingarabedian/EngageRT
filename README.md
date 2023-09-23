@@ -66,8 +66,7 @@ Before getting started, configure your EngageRT system by creating a `config.jso
             }
           ]
         }
-      },
-      // Add more agents as needed
+      }
     },
     "queues": {
       "salesPartners": {
@@ -222,3 +221,6 @@ EngageRT is designed to work seamlessly with SignalWire, a leading cloud communi
 We recommend using SignalWire in conjunction with EngageRT to take full advantage of the platform's capabilities, ensuring high-quality interactions with your customers.
 
 For more information about SignalWire and their cutting-edge communication solutions, please visit [SignalWire's website](https://www.signalwire.com).
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.

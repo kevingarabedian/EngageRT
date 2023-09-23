@@ -1,4 +1,4 @@
-# EngageRT - Real-Time Customer Engagement Platform
+# EngageRT - Simple Call Center
 
 EngageRT is a powerful real-time customer engagement platform built to enhance your call center, support service, or any customer-facing communication system. It provides comprehensive tools for managing agents, queues, and customer interactions.
 
